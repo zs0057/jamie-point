@@ -9,5 +9,4 @@ public class JamiePointApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JamiePointApplication.class, args);
 	}
-
 }
